@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 <div id="header" align="center">
-  <img src="./demo.gif" width="500"/>
+  <img src="./public/demo.gif" width="500"/>
 </div>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
